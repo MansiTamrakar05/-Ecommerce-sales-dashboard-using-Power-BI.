@@ -1,4 +1,4 @@
-# Ecommerce-sales-dashboard-using-Power-BI.
+# Ecommerce-sales-dashboard-using-Power-BI
 Created an interactive Ecommerce sales dashboard using Power BI.
 Thanks to Rishabh Mishra for guiding me as my mentor during the learning process.
 
